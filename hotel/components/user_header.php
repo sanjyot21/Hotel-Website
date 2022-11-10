@@ -1,7 +1,7 @@
 <!-- header section starts  -->
 <section class="header">
    <div class="flex">
-      <a href="#home" class="logo">VIT-HAR : Hotels And Resorts</a>
+      <a href="#home" class="logo">HAR : Hotels And Resorts</a>
       <a href="#availability" class="btn">Check Availability</a>
       <div id="menu-btn" class="fas fa-bars"></div>
    </div>
