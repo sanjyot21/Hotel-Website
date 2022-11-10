@@ -1,3 +1,4 @@
+<!-- ADMIN LOGIN - username: admin | password: 1111 -->
 <?php
 
 include '../components/connect.php';
