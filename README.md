@@ -3,14 +3,10 @@ Welcome to the Hotel and Resorts Website.
 
 This is a hotel website project that allows users to view hotel details, make reservations, and manage bookings. The project is built using PHP, HTML, CSS, and JavaScript, and runs on the XAMPP server, which provides the necessary tools for local development and testing.
 
-----
-
 ## Requirements
 * Web browser (Chrome, Firefox, Safari, etc.)
 * XAMPP server (or other software for running PHP and MySQL)
 * Text editor (Atom, Sublime Text, Visual Studio Code, etc.)
- 
- -----
  
 ## Usage
 * Start the Apache Server and MySQL Server from XAMPP Control Panel.
